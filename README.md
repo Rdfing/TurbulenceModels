@@ -1,7 +1,7 @@
 # TurbulenceModels
 Some turbulence models used in OpenFOAM
 
-An [iplementation note](https://github.com/Rdfing/TurbulenceModels/blob/master/kOmega20062D/RANS_kOmega_Implementation.pdf) is also provided.  
+An [implementation note](https://github.com/Rdfing/TurbulenceModels/blob/master/kOmega20062D/RANS_kOmega_Implementation.pdf) is also provided.  
 
 ## Prerequisites
 OpenFOAM 5.0
