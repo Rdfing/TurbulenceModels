@@ -15,4 +15,4 @@ University of Florida
 This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software and owner of the OPENFOAM®  and OpenCFD®  trade marks.
 
 ## Reference
-XXX 
+Li, H., & Sansalone, J. (2021). Benchmarking Reynolds-Averaged Navier–Stokes Turbulence Models for Water Clarification Systems. Journal of Environmental Engineering
