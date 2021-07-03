@@ -3,6 +3,9 @@ Some turbulence models used in OpenFOAM
 
 An [implementation note](https://github.com/Rdfing/TurbulenceModels/blob/master/kOmega20062D/RANS_kOmega_Implementation.pdf) is also provided.  
 
+## Reference
+Li, H., & Sansalone, J. (2021). Benchmarking Reynolds-Averaged Navier–Stokes Turbulence Models for Water Clarification Systems. Journal of Environmental Engineering
+
 ## Prerequisites
 OpenFOAM 5.0
 
@@ -14,5 +17,3 @@ University of Florida
 ## Disclaimer
 This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software and owner of the OPENFOAM®  and OpenCFD®  trade marks.
 
-## Reference
-Li, H., & Sansalone, J. (2021). Benchmarking Reynolds-Averaged Navier–Stokes Turbulence Models for Water Clarification Systems. Journal of Environmental Engineering
